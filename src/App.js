@@ -1,11 +1,11 @@
 import './App.css';
-import Counter from './Component/Counter';
+import Task from './Component/Task';
 
 function App() {
   return (
     <>
     <div>
-    <Counter/>
+    <Task/>
     </div>
     </>
   );
